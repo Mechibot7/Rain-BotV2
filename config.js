@@ -5,9 +5,9 @@ import fs from 'fs'
 
 /**Owner number**/
 global.owner = [
-  ['62895605887712', '<Admin>'],
-  ['6283190403329', '<Moderator>'],
-  ['6281313312123', '<>', true ]
+  ['601163276045', '<Admin>'],
+  ['601163276045', '<Moderator>'],
+  ['601163276045', '<>', true ]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
